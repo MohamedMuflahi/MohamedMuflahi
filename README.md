@@ -19,6 +19,7 @@
 </div>
 :man_technologist: About Me :
 I am a Full Stack Developer based in NYC.
+
 - :telescope: Learning all aspects of mobile and web development to become a true full stack developer
 
 - :zap: I love to workout and create new things.
