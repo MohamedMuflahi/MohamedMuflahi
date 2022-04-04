@@ -44,3 +44,6 @@ I am a Full Stack Developer based in NYC.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMuflahi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+:writing_hand: Blog Posts :
+<a href="https://mohamedmuflahi.medium.com/citibike-2-0-no-hate-to-the-citibike-devs-d1ef11323825">CitiBike2.0</a>
+
