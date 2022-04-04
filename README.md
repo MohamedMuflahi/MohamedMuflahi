@@ -38,6 +38,7 @@ I am a Full Stack Developer based in NYC.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" **alt="cplusplus" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="unity" **alt="unity" width="40" height="40"/>
 </div>
+<div>
 :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -47,3 +48,4 @@ I am a Full Stack Developer based in NYC.
 :writing_hand: Blog Posts :
 <a href="https://mohamedmuflahi.medium.com/citibike-2-0-no-hate-to-the-citibike-devs-d1ef11323825">CitiBike2.0</a>
 
+</div>
