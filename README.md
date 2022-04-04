@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-###:man_technologist: About Me :
+:man_technologist: About Me :
 I am a Full Stack Developer based in NYC.
 - :telescope: Learning all aspects of mobile and web development to become a true full stack developer
 
