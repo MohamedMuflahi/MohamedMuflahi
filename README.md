@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/N83opPd94lokXuoIqX/giphy.gif" border-radius="20px" width="200"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mohamed-muflahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
