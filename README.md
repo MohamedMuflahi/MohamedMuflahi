@@ -7,5 +7,4 @@
 <img src="https://komarev.com/ghpvc/?username=MohamedMuflahi&style=flat-square&color=blue" alt=""/>
 <div>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=gruvbox&background=000000)]([https://git.io/streak-stats](http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=gruvbox&background=000000)http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=gruvbox&background=000000)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=gruvbox&background=000000)](http://github-readme-streak-stats.herokuapp.com?user=MohamedMuflahi&theme=gruvbox&background=000000)
